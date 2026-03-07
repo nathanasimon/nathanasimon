@@ -21,7 +21,7 @@ Psychology & Machine Learning @ The Human Language and Development Lab (The New 
 
 | Repo | Description |
 |------|-------------|
-| [audio-classification-survey](https://github.com/nathanasimon/audio-classification-survey) | Full-stack Flask + React app for embodied communication audio classification studies |
+| [embodied_communication](https://github.com/nathanasimon/embodied_communication) | Audio analysis tools for baby-caregiver interactions — breastfeeding detection, classification surveys, visualizations |
 | [Coloring_For_Machines](https://github.com/nathanasimon/Coloring_For_Machines) | Illuminant estimation using relational features based on Chirimuuta's color theory |
 | [alignment-faking-test](https://github.com/nathanasimon/alignment-faking-test) | Testing alignment faking behavior across frontier language models |
 | [hindi-transliteration](https://github.com/nathanasimon/hindi-transliteration) | Hindi transliteration distance calculator using local LLMs |
