@@ -1,5 +1,6 @@
 ## Nathan Simon
 AI Workflow Intern @ Hyfe Cough Monitoring
+
 Psychology & Machine Learning @ The Human Language and Development Lab (The New School)
 [nathansimon.me](https://nathansimon.me) · [substack](https://nathanasimon.substack.com) · [linkedin](https://linkedin.com/in/nathanasimon)
 ---
