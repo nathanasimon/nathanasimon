@@ -7,6 +7,16 @@ Psychology & Machine Learning @ The Human Language and Development Lab
 [nathansimon.me](https://nathansimon.me) · [substack](https://nathanasimon.substack.com) · [linkedin](https://linkedin.com/in/nathanasimon)
 
 ---
+### AI Safety & Interpretability
+| Repo | Description |
+|------|-------------|
+| [nextgen-constitutional-classifier-replication](https://github.com/nathanasimon/nextgen-constitutional-classifier-replication) | A ~10M-param linear probe on frozen Gemma activations beats ShieldGemma 27B on every public safety benchmark for ~$5 of compute — replication + extension of Anthropic's Constitutional Classifiers++ |
+| [probe-method-comparison](https://github.com/nathanasimon/probe-method-comparison) | Linear vs SAE vs attention vs LLM-monitor probes on a tool-routing task — linear keeps OOD AUC 0.903 while SAE features collapse to 0.330 |
+| [sae-safety-probe](https://github.com/nathanasimon/sae-safety-probe) | Safety classifier built on sparse-autoencoder features of Gemma 3 4B — the SAE arm of the linear-vs-SAE probe comparison |
+| [model-knows-when-wrong](https://github.com/nathanasimon/model-knows-when-wrong) | Linear failure probes on LLM activations for selective prediction (abstention) and probe-gated self-correction (+3.3pp MMLU) |
+| [hallucination-is-not-lying](https://github.com/nathanasimon/hallucination-is-not-lying) | Mechanistic evidence that hallucination ≠ lying across three model families — linear probes separate the two at ~100% |
+| [alignment-faking-test](https://github.com/nathanasimon/alignment-faking-test) | Testing alignment-faking behavior across frontier language models |
+
 ### Investing & Markets
 | Repo | Description |
 |------|-------------|
@@ -22,7 +32,6 @@ Psychology & Machine Learning @ The Human Language and Development Lab
 |------|-------------|
 | [embodied_communication](https://github.com/nathanasimon/embodied_communication) | Audio analysis tools for baby-caregiver interactions — breastfeeding detection, classification surveys, visualizations |
 | [Coloring_For_Machines](https://github.com/nathanasimon/Coloring_For_Machines) | Illuminant estimation using relational features based on Chirimuuta's color theory |
-| [alignment-faking-test](https://github.com/nathanasimon/alignment-faking-test) | Testing alignment faking behavior across frontier language models |
 | [hindi-transliteration](https://github.com/nathanasimon/hindi-transliteration) | Hindi transliteration distance calculator using local LLMs |
 | [transmission-automation](https://github.com/nathanasimon/transmission-automation) | Automated proposition verification against source text using LLMs |
 ### Translation
